@@ -6,7 +6,7 @@ Juste pour essayer.
 Bien, à présent, je fais une modification. Et puis, j'écris des trucs depuis mon Gros Ordi.
 Mais, maintenant, j'écris sur le vaibe. C'est dingue.
 
-Un peu de code scala:
+Un peu de code _scala_:
 
 ```scala
 package euler1
@@ -32,3 +32,17 @@ object Utils {
 }
 ```
 
+Et un truc _ruby_:
+
+```ruby
+def afficheNum
+   # p $piles
+   ($n-1).downto(0) { |etage|
+      1.upto(3) { |pile|
+         print("  " + ($piles[pile][etage] || "|").to_s)
+      }
+      print("\n")
+   }
+   print("-----------\n\n")
+end
+```
