@@ -46,3 +46,9 @@ def afficheNum
    print("-----------\n\n")
 end
 ```
+
+Et une liste:
+* truc
+* machin
+* chose
+
