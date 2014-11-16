@@ -58,4 +58,4 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
-[img]http://www.sciweavers.org/tex2img.php?eq=%24%24%20%5CGamma%28z%29%20%3D%20%5Cint_0%5E%5Cinfty%20t%5E%7Bz-1%7De%5E%7B-t%7Ddt%5C%2C.%20%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img]
+![equation](http://www.sciweavers.org/tex2img.php?eq=%24%24%20%5CGamma%28z%29%20%3D%20%5Cint_0%5E%5Cinfty%20t%5E%7Bz-1%7De%5E%7B-t%7Ddt%5C%2C.%20%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
